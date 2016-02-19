@@ -4,7 +4,6 @@ More information is <http://qunfei.wordpress.com> in detail.
 
 ### What is Asynchronous and Asynchronous Request?
 ### Why we need Asynchronous request? 
-### Advantages and Disadvantages
 ### Benchmark Comparison 2016
 1.	Apache HttpClient
 2.	Apache HttpAsyncClient
@@ -22,6 +21,7 @@ Content Cell | Content Cell  | Content Cell
 Content Cell | Content Cell  | Content Cell
 
 ### Understanding Java NIO in deeply as a linux developer
-### Python asynchttplient and Erlang asychttpclient
+### I/O frameworks and Strategies
+### Python async httpclient & Erlang asychttpclient
 ### Asynchronous Disadvantages
 
